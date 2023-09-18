@@ -11,10 +11,10 @@ android-targetSdk = "34"
 
 compose-jetbrains = "1.5.0-beta02"
 
-androidx-activityCompose = "1.8.0-alpha06"
+androidx-activityCompose = "1.8.0-beta01"
 
-decompose = "2.1.0-compose-experimental-alpha-07"
-essenty = "1.2.0-alpha-06"
+decompose = "2.1.0-compose-experimental-beta-01"
+essenty = "1.2.0-beta-01"
 
 [plugins]
 
